@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<HTML lang="en">
+    <head>
+        <title> camilo arias</title>
+        <meta charset="UTF-8">
+        <link rel="shorcut icon" href="agente pe.jpg">
+        <link rel="stylesheet" href="estilos.css">
+    </head>
+    <body>
+        <div class="navbar">
+            <a href="inicio.html">inicio</a>
+            <a href="nosotros.html">nosotros</a>
+            <a href="Contacto.html">Contacto</a>
+        </div>
+        <h1>BIENVENIDOS MI PAGINA WEB</h1>
+        <H2> ASKDJASKD</H2>
+        <p>Aqui van los parrafos</p>
+        <hr>BIENVENIDOS
+        <hr>Como estan
+        <br>asdhashdash 
+        <h1>TIENDA PE CAUSA</h1>
+        <img  width="300px" src="agente pe.jpg" alt="">
+        <b> camilo pipipipi</b>
+        <i> estudiante</i>
+    </body>
+
+</HTML>
